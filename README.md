@@ -1,7 +1,7 @@
 ## SPARC installation and usage 
 
 ### (1) Brief:
-SPARC is an open-source software package for the accurate, effcient, and scalable solution of the Kohn-Sham density functional theory (DFT) problem. The main features of SPARC currently include
+SPARC is an open-source software package for the accurate, efficient, and scalable solution of the Kohn-Sham density functional theory (DFT) problem. The main features of SPARC currently include:
 
 * Applicable to isolated systems such as molecules as well as extended systems such as crystals, surfaces, and wires.
 * Local, semilocal, and nonlocal (including hybrid) exchange-correlation functionals.
@@ -138,7 +138,7 @@ Upon successful execution of the `sparc` code, depending on the calculations per
 
 - ".geopt" file 
 
-  Atomic positions and atomic forces for atomic relaxation, cell lengths and stress tensor for volume relaxation, and atomic positions, atomic forces, cell lengths , and stress tensor for full relaxation.
+  Atomic positions and atomic forces for atomic relaxation, cell lengths and stress tensor for volume relaxation, and atomic positions, atomic forces, cell lengths, and stress tensor for full relaxation.
 
 - ".restart" file 
 
